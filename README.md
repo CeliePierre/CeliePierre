@@ -1,3 +1,3 @@
-Hi, I'm Célie 👋
-- 💻 IT Specialist for University of Maine System
-- 👩🏽‍🎓 Computer Science student at University of Southern Maine
+Hi, I'm Célie Pierre 👋
+- 💻 I'm currently working as an IT Specialist for the University of Maine System
+- 🎓 I'm currently studying Computer Science at the University of Southern Maine
