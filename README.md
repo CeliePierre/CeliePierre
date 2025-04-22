@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 💻 Where I'm Working
-- **IT Specialist** for the University of Maine System
+- **Software Support Analyst** for the University of Maine System
 
 ## 🎓 What I'm Studying
 - **Computer Science** at the University of Southern Maine
